@@ -1,0 +1,8 @@
+::1 - - [20/Jan/2021:19:28:20 +0200] "GET / HTTP/1.1" 200 2532
+::1 - - [20/Jan/2021:19:28:26 +0200] "GET /search_keyword.php?Keyword=rompetrol&Submit= HTTP/1.1" 200 4862
+::1 - - [20/Jan/2021:19:28:26 +0200] "GET /resources/demos/style.css HTTP/1.1" 404 223
+::1 - - [20/Jan/2021:19:28:26 +0200] "GET /resources/demos/style.css HTTP/1.1" 404 223
+::1 - - [20/Jan/2021:19:28:29 +0200] "GET /index.php HTTP/1.1" 200 2532
+::1 - - [20/Jan/2021:19:28:32 +0200] "GET /search_keyword.php?Keyword=Germania&Submit= HTTP/1.1" 200 12077
+::1 - - [20/Jan/2021:19:28:32 +0200] "GET /resources/demos/style.css HTTP/1.1" 404 223
+::1 - - [20/Jan/2021:19:28:39 +0200] "GET /index.php HTTP/1.1" 200 2532
